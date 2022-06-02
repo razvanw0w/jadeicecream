@@ -1,0 +1,1 @@
+( ap-description  :name "icecream_platform" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://DESKTOP-5KGUQL0:7778/acc))))
